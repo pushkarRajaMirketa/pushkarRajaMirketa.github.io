@@ -1,0 +1,40 @@
+body {
+  margin-left: 100px;
+  /* background-color: #191919; */
+}
+
+th {
+  padding: 8px;
+  text-align: left;
+  background-color: #dc8449;
+}
+
+td {
+  /* border: 1px solid #f5eaea; */
+  /* color: aliceblue; */
+  padding-top: 14px;
+  padding-left: 14px;
+  padding-right: 14px;
+  /* width: 900px; */
+}
+
+hr {
+  margin: 0px;
+}
+
+.inner-table td {
+  border: 1px dotted black;
+}
+
+.td-notes {
+  width: 900px;
+}
+
+.td-date {
+  width: 80px;
+}
+
+li {
+  padding: 8px;
+  list-style: none;
+}
