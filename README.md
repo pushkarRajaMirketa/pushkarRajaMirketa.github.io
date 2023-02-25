@@ -1,3 +1,4 @@
 # Pushkar Raja
-[Journal](https://trailblazer.me/id/pushkarraaja) <br>
-[Trailhead](https://pushkarrajamirketa.github.io/journal.html)
+
+[Journal](https://pushkarrajamirketa.github.io/journal.html)<br>
+[Traihead](https://trailblazer.me/id/pushkarraaja) <br>
